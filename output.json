@@ -1,0 +1,12 @@
+[
+  {
+    "address": "RECEIVER_ADDRESS",
+    "amount": "AMOUNT_TO_TRANSFER",
+    "transactionHash": ""
+  },
+  {
+    "address": "RECEIVER_ADDRESS",
+    "amount": "AMOUNT_TO_TRANSFER",
+    "transactionHash": ""
+  }
+]
